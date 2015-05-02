@@ -1,9 +1,16 @@
 ﻿@import url(http://fonts.googleapis.com/css?family=Lato); /* FREE GOOGLE FONTS */
 
-
 .social a {
   margin: auto 0.5em;
   font-size: 2em;
+}
+
+.gsift-header {
+  font-size:2.5em;
+}
+.tagline {
+  font-size:1.2em;
+  margin-left: 1em;
 }
 
 /*================================
@@ -57,7 +64,7 @@ header .menu-links {
 header .menu-links a {
   font-size:30px;
   color:#fff;
-  margin:15px;
+  margin:6px;
 }
 header .menu-links a:hover, header .menu-links a:focus {
   text-decoration:none;
@@ -233,29 +240,6 @@ FEATURES STYLES
 ==================================*/
 #features {
   background-color:rgba(234, 234, 234, 0.90);
-}
-
-/*================================
-EMAIL-SUBSCRIBE STYLES
-============================  */
-
-#email-subscribe .form-control
-{
-  display:inline;
-  height:50px;
-  font-size:20px;
-  margin-right:20px;
-  width:60%;
-}
-
-#email-subscribe .btn-subscribe
-{
-  height:50px;
-  font-size:20px;
-  color: #fff;
-  background-color: #737373;
-  border-color: #5C5C5C;
-  margin-top:-10px;
 }
 
 /*================================
